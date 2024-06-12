@@ -14,7 +14,7 @@ To reproduce the results of this research, follow these steps:
 2. Run the `code.ipynb` notebook in a Jupyter environment.
 
 ## Prerequisites
-All information on requirements needed is available in the first few cells of the notebook. Please 'pip install -' whatever libraries are necessary for getting the import cell to work. 
+All information on requirements needed is available in the first few cells of the notebook. Please `pip install -` whatever libraries are necessary for getting the import cell to work. 
 
 ## Acknowledgements
 All acknowledgements are cited in the notebook itself. Including the datasets and the code used for their pre-processing.
